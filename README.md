@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on web development projects and improving my coding skills<br>🌱 I’m currently learning Java, Data Structures & Algorithms, JavaScript, and Full Stack Development<br>💬 Ask me about HTML, CSS, JavaScript, Java, Git, and GitHub<br>🚀 Passionate about building impactful solutions through code and creativity.<br>📚 Always learning, experimenting, and sharing knowledge with the community.
+🔭 Currently working on web development projects and improving my coding skills<br>🌱 I’m currently learning Java, Data Structures & Algorithms, JavaScript, and Full Stack Development<br>💬 Ask me about HTML, CSS, JavaScript, Java, Git and GitHub<br>🚀 Passionate about building impactful solutions through code and creativity.<br>📚 Always learning, experimenting, and sharing knowledge with the community.
 
 
 ## 🌐 Socials:
